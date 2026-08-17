@@ -30,8 +30,10 @@ In this step, you will add the new volume to a Linux instance as an ext3 file sy
 You can create any number of point-in-time, consistent snapshots from Amazon EBS volumes at any time. Amazon EBS snapshots are stored in Amazon S3 with high durability. New Amazon EBS volumes can be created out of snapshots for cloning or restoring backups. Amazon EBS snapshots can also be easily shared among AWS users or copied over AWS regions.
 
 ## STEP 5:
+<img width="939" height="811" alt="image" src="https://github.com/user-attachments/assets/98c7b4f4-35ff-46e6-a441-576c2af96266" />
 
-<img width="833" height="786" alt="Screenshot 2026-08-03 140404" src="https://github.com/user-attachments/assets/a072d83e-667f-4fab-87e6-40757881f2e0" />
+
+
 <img width="713" height="510" alt="Screenshot 2026-08-03 140416" src="https://github.com/user-attachments/assets/3a9f2fe4-a6b8-4d9e-b7e6-5f26552e6ca2" />
 
 
